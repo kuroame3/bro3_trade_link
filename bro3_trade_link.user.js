@@ -5,7 +5,7 @@
 // @include        http://*.3gokushi.jp/card/bid_list.php*
 // @icon           https://raw.githubusercontent.com/kuroame3/bro3_trade_link/master/8950.png
 // @description    出品カードのトレードリンク表示
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
+// @require        http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
 // @version	   0.1.0
 // ==/UserScript==
 
