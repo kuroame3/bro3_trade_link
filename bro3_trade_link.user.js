@@ -25,7 +25,6 @@ HOST = location.hostname;
     }
     if (location.pathname == "/card/exhibit_list.php")
     {
-		    alert("Updated");
       	var m = "";
         j$("div[class=trade_commission_info]").before("<div id=trade_direct_link>");
         j$("#trade_direct_link").css({
