@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name           bro3_trade_link
 // @namespace      ブラウザ三国志で出品カードのトレードリンクを表示する
-// @include        http://*.3gokushi.jp/card/exhibit_list.php*
-// @include        http://*.3gokushi.jp/card/bid_list.php*
+// @include        http*://*.3gokushi.jp/card/exhibit_list.php*
+// @include        http*://*.3gokushi.jp/card/bid_list.php*
 // @icon           https://raw.githubusercontent.com/kuroame3/bro3_trade_link/master/8950.png
 // @description    出品カードのトレードリンク表示
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
